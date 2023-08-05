@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👔 I'm currently working at [@wpengine](https://github.com/wpengine), building and maintaining Edge and Platform services. My work profile is https://github.com/obinnanginiwp
 - 🌱 I’m currently coding with Go, and a smattering of Python and Ruby
-- 🌱 I previously built backend services with Java/Spring Boot and Node.js, and front-ends React, Angular framework and HTML5 and CSS3
+- 🌱 I previously built backend services with Java/Spring Boot and Node.js, and front-ends with React, Angular framework and HTML5 and CSS3
 - 🔭 I enjoy building distributed and resilient systems that can recover from errors. No pages please 😁
 - 😄 I enjoy soccer, reading, movies/TV and video games in my free time
 
